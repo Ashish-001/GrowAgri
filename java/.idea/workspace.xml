@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="151a2f34-19a3-4cbd-9209-26c2d1291614" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ClientApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ClientApp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nVq5wFQiw7NcMoYkGUAMdqBDWN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.springappplication">
+    <configuration name="ClientApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ClientApp" />
+      <module name="fabcar-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnrollAdmin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.EnrollAdmin" />
+      <module name="fabcar-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.RegisterUser" />
+      <module name="fabcar-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="springappplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="fabcar-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.springappplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.springappplication" />
+        <item itemvalue="Application.ClientApp" />
+        <item itemvalue="Application.RegisterUser" />
+        <item itemvalue="Application.EnrollAdmin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="151a2f34-19a3-4cbd-9209-26c2d1291614" name="Default Changelist" comment="" />
+      <created>1611485425144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611485425144</updated>
+      <workItem from="1611485430800" duration="1597000" />
+      <workItem from="1611495197190" duration="3743000" />
+      <workItem from="1611509069212" duration="3978000" />
+      <workItem from="1611566161972" duration="11973000" />
+      <workItem from="1614074211059" duration="22000" />
+      <workItem from="1620470503888" duration="2552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="245" key="GridCell.Tab.0.bottom" timestamp="1620473067983">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="245" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1620473067983" />
+    <state width="1874" height="245" key="GridCell.Tab.0.center" timestamp="1620473067982">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="245" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1620473067982" />
+    <state width="1874" height="245" key="GridCell.Tab.0.left" timestamp="1620473067982">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="245" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1620473067982" />
+    <state width="1874" height="245" key="GridCell.Tab.0.right" timestamp="1620473067983">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="245" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1620473067983" />
+    <state width="1874" height="245" key="GridCell.Tab.1.bottom" timestamp="1620473067985">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="245" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1620473067985" />
+    <state width="1874" height="245" key="GridCell.Tab.1.center" timestamp="1620473067984">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="245" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1620473067984" />
+    <state width="1874" height="245" key="GridCell.Tab.1.left" timestamp="1620473067984">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="245" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1620473067984" />
+    <state width="1874" height="245" key="GridCell.Tab.1.right" timestamp="1620473067985">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="245" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1620473067985" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fabcar_java$ClientApp.ic" NAME="ClientApp Coverage Results" MODIFIED="1611576655884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+  </component>
+</project>
